@@ -1,19 +1,22 @@
-import React from 'react';
+
 
 const Banner = () => {
     return (
-        <div className="hero bg-base-200 min-h-screen">
-  <div className="hero-content text-center">
-    <div className="max-w-md">
-      <h1 className="text-5xl font-bold">Hello there</h1>
-      <p className="py-6">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
+        <div className="hero  bg-purple-700 min-h-screen text-white rounded-lg">
+  <div className="text-center">
+    <div className="md">
+     <h2 className='font-bold text-5xl '>Upgrade Your Tech Accessorize with<br></br> Gadget Heaven Accessories</h2>
+      <p className="py-6 text-sm">
+      Explore the latest gadgets that will take your experience to the next level. From smart devices to <br></br> the coolest accessories, we have it all!
       </p>
-      <button className="btn btn-primary">Get Started</button>
+      <button className="btn bg-white btn-primary text-purple-700">Shop Now</button>
     </div>
   </div>
+
+  <div className='bg-banner min-h-screen'></div>
 </div>
+
+
     );
 };
 

@@ -9,7 +9,8 @@ export default {
   theme: {
     extend: {
       backgroundImage:{
-        banner:"url('/img/hero-pattern.svg')",
+        banner:"url('./assets/banner.jpg')",
+        
       },
     },
   },
