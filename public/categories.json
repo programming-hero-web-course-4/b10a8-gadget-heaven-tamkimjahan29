@@ -1,0 +1,116 @@
+{
+    "categories": [
+      {
+        "name": "Computers",
+        "products": [
+          {
+            "id": "comp1",
+            "product_name": "UltraBook Pro 14",
+            "price": 1200,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/vw0tnX9/keyboard-near-monitor-computer-mouse-headphones-table.jpg"
+          },
+          {
+            "id": "comp2",
+            "product_name": "Gaming Laptop X",
+            "price": 1500,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/7KMskd5/display-various-wireless-devices-table.jpg"
+          },
+          {
+            "id": "comp3",
+            "product_name": "Compact Desktop Mini",
+            "price": 750,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/6r2c1Km/laptop3.jpg"
+          },
+          {
+            "id": "comp4",
+            "product_name": "High-Performance Workstation",
+            "price": 2000,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/WnFRTNL/laptop4.jpg"
+          },
+          {
+            "id": "comp5",
+            "product_name": "Convertible Laptop",
+            "price": 1100,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/dJJ8J8V/laptop5.jpg"
+          },
+          {
+            "id": "comp6",
+            "product_name": "All-in-One PC",
+            "price": 950,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/7KMskd5/display-various-wireless-devices-table.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Phones",
+        "products": [
+          {
+            "id": "phone1",
+            "product_name": "Smartphone A21",
+            "price": 300,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/Pt1n2C2/phone-1.jpg"
+          },
+          {
+            "id": "phone2",
+            "product_name": "Smartphone X Max",
+            "price": 850,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/sygFfcF/ph-2.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Smart Watches",
+        "products": [
+          {
+            "id": "watch1",
+            "product_name": "Fitness Watch Pro",
+            "price": 180,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/hRfJq18/watch1.jpg"
+          },
+          {
+            "id": "watch2",
+            "product_name": "Luxury Smartwatch",
+            "price": 400,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/hRfJq18/watch1.jpg"
+          }
+        ]
+      },
+      {
+        "name": "Chargers and Power Banks",
+        "products": [
+          {
+            "id": "charger1",
+            "product_name": "Fast Charger 50W",
+            "price": 60,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/yshB0jW/charger.jpg"
+          },
+          {
+            "id": "charger2",
+            "product_name": "Portable Power Bank 20000mAh",
+            "price": 70,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/4S4tDVC/images.jpg"
+          },
+          {
+            "id": "charger3",
+            "product_name": "Wireless Charger Pad",
+            "price": 55,
+            "details_button": "View Details",
+            "image_url": "https://i.ibb.co.com/yshB0jW/charger.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
