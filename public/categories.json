@@ -1,115 +1,146 @@
 {
-    "categories": [
+    "products": [
       {
-        "name": "Computers",
-        "products": [
-          {
-            "id": "comp1",
-            "product_name": "UltraBook Pro 14",
-            "price": 1200,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/vw0tnX9/keyboard-near-monitor-computer-mouse-headphones-table.jpg"
-          },
-          {
-            "id": "comp2",
-            "product_name": "Gaming Laptop X",
-            "price": 1500,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/7KMskd5/display-various-wireless-devices-table.jpg"
-          },
-          {
-            "id": "comp3",
-            "product_name": "Compact Desktop Mini",
-            "price": 750,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/6r2c1Km/laptop3.jpg"
-          },
-          {
-            "id": "comp4",
-            "product_name": "High-Performance Workstation",
-            "price": 2000,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/WnFRTNL/laptop4.jpg"
-          },
-          {
-            "id": "comp5",
-            "product_name": "Convertible Laptop",
-            "price": 1100,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/dJJ8J8V/laptop5.jpg"
-          },
-          {
-            "id": "comp6",
-            "product_name": "All-in-One PC",
-            "price": 950,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/7KMskd5/display-various-wireless-devices-table.jpg"
-          }
-        ]
+        "product_id": "P001",
+        "product_title": "XPhone 12 Pro",
+        "product_image": "https://i.ibb.co.com/Pt1n2C2/phone-1.jpg",
+        "category": "Phones",
+        "price": "$999",
+        "description": "The latest XPhone with a powerful A14 chip, 5G capability, and enhanced camera system.",
+        "Specification": [
+          "Screen Size: 6.1 inches",
+          "Storage: 128GB",
+          "Battery Life: 20 hours",
+          "Color: Graphite"
+        ],
+        "availability": true,
+        "rating": 4.7
       },
       {
-        "name": "Phones",
-        "products": [
-          {
-            "id": "phone1",
-            "product_name": "Smartphone A21",
-            "price": 300,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/Pt1n2C2/phone-1.jpg"
-          },
-          {
-            "id": "phone2",
-            "product_name": "Smartphone X Max",
-            "price": 850,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/sygFfcF/ph-2.jpg"
-          }
-        ]
+        "product_id": "P002",
+        "product_title": "Galaxy Ultra 21",
+        "product_image": "https://i.ibb.co.com/sygFfcF/ph-2.jpg",
+        "category": "Phones",
+        "price": "$1199",
+        "description": "High-performance smartphone with an advanced camera and vibrant AMOLED display.",
+        "Specification": [
+          "Screen Size: 6.8 inches",
+          "Storage: 256GB",
+          "Battery Life: 22 hours",
+          "Color: Phantom Black"
+        ],
+        "availability": true,
+        "rating": 4.8
       },
       {
-        "name": "Smart Watches",
-        "products": [
-          {
-            "id": "watch1",
-            "product_name": "Fitness Watch Pro",
-            "price": 180,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/hRfJq18/watch1.jpg"
-          },
-          {
-            "id": "watch2",
-            "product_name": "Luxury Smartwatch",
-            "price": 400,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/hRfJq18/watch1.jpg"
-          }
-        ]
+        "product_id": "P003",
+        "product_title": "Pixel G6",
+        "product_image": "https://i.ibb.co.com/YW2P1V8/ph-3.jpg",
+        "category": "Phones",
+        "price": "$699",
+        "description": "Google's latest smartphone with AI-powered camera and pure Android experience.",
+        "Specification": [
+          "Screen Size: 6.4 inches",
+          "Storage: 128GB",
+          "Battery Life: 18 hours",
+          "Color: Sorta Sage"
+        ],
+        "availability": false,
+        "rating": 4.5
       },
       {
-        "name": "Chargers and Power Banks",
-        "products": [
-          {
-            "id": "charger1",
-            "product_name": "Fast Charger 50W",
-            "price": 60,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/yshB0jW/charger.jpg"
-          },
-          {
-            "id": "charger2",
-            "product_name": "Portable Power Bank 20000mAh",
-            "price": 70,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/4S4tDVC/images.jpg"
-          },
-          {
-            "id": "charger3",
-            "product_name": "Wireless Charger Pad",
-            "price": 55,
-            "details_button": "View Details",
-            "image_url": "https://i.ibb.co.com/yshB0jW/charger.jpg"
-          }
-        ]
+        "product_id": "P004",
+        "product_title": "Watch Series 6",
+        "product_image": "https://i.ibb.co.com/hRfJq18/watch1.jpg",
+        "category": "Smart Watches",
+        "price": "$399",
+        "description": "Smartwatch with ECG, blood oxygen monitor, and customizable faces.",
+        "Specification": [
+          "Screen Size: 1.78 inches",
+          "Storage: 32GB",
+          "Battery Life: 18 hours",
+          "Color: Red"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "P005",
+        "product_title": "OnePlus Nord X",
+        "product_image": "https://i.ibb.co.com/r7bQGMX/ph-4.jpg",
+        "category": "Phones",
+        "price": "$549",
+        "description": "Fast, sleek, and affordable with a powerful Snapdragon 888 processor.",
+        "Specification": [
+          "Screen Size: 6.5 inches",
+          "Storage: 128GB",
+          "Battery Life: 24 hours",
+          "Color: Blue Marble"
+        ],
+        "availability": true,
+        "rating": 4.4
+      },
+      {
+        "product_id": "P006",
+        "product_title": "Galaxy Watch Active 2",
+        "product_image": "https://i.ibb.co.com/hRfJq18/watch1.jpg",
+        "category": "Smart Watches",
+        "price": "$279",
+        "description": "Water-resistant smartwatch with GPS, heart rate monitoring, and fitness tracking.",
+        "Specification": [
+          "Screen Size: 1.4 inches",
+          "Storage: 4GB",
+          "Battery Life: 24 hours",
+          "Color: Black"
+        ],
+        "availability": false,
+        "rating": 4.3
+      },
+      {
+        "product_id": "P007",
+        "product_title": "Laptop X200",
+        "product_image": "https://i.ibb.co.com/6r2c1Km/laptop3.jpg",
+        "category": "Computers",
+        "price": "$1200",
+        "description": "Powerful laptop with 16GB RAM and 512GB SSD, perfect for gaming and work.",
+        "Specification": [
+          "Screen Size: 15.6 inches",
+          "Storage: 512GB SSD",
+          "RAM: 16GB",
+          "Processor: Intel i7"
+        ],
+        "availability": true,
+        "rating": 4.6
+      },
+      {
+        "product_id": "P008",
+        "product_title": "Charger Pro Max",
+        "product_image": "https://i.ibb.co.com/yshB0jW/charger.jpg",
+        "category": "Chargers",
+        "price": "$59",
+        "description": "High-speed charger compatible with a variety of devices, including fast-charging capabilities.",
+        "Specification": [
+          "Output Power: 65W",
+          "Compatibility: Universal",
+          "Cable Included: Yes"
+        ],
+        "availability": true,
+        "rating": 4.7
+      },
+      {
+        "product_id": "P009",
+        "product_title": "Power Bank Ultra 10,000mAh",
+        "product_image": "https://i.ibb.co.com/4S4tDVC/images.jpg",
+        "category": "Chargers",
+        "price": "$79",
+        "description": "Portable power bank with 10,000mAh capacity and fast charging.",
+        "Specification": [
+          "Capacity: 10,000mAh",
+          "Output Power: 18W",
+          "Ports: USB-C, USB-A"
+        ],
+        "availability": true,
+        "rating": 4.6
       }
     ]
   }

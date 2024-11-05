@@ -1,3 +1,4 @@
+import { useLoaderData } from "react-router-dom";
 import Banner from "../components/Banner";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
@@ -5,6 +6,10 @@ import Heading from "../components/Heading";
 
 
 const Home = () => {
+    
+
+
+
     return (
         <div>
             {/* banner */}

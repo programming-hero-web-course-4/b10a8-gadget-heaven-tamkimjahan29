@@ -5,7 +5,7 @@ const Header = () => {
 
 
 
-        <div className='bg-banner min-h-[600px] w-[900px] container mx-auto   rounded-3xl'> 
+        <div className='bg-banner min-h-[600px] w-[900px] container mx-auto '> 
         </div>
     );
 };

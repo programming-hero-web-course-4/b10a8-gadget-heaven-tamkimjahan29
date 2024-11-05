@@ -2,7 +2,7 @@
 
 const Banner = () => {
     return (
-        <div className="hero  bg-purple-700 min-h-screen container mx-auto text-white rounded-3xl">
+        <div className="hero  bg-purple-700 min-h-screen w-11/12 container mx-auto text-white rounded-3xl">
   <div className="text-center">
     <div className="md">
      <h2 className='font-bold text-5xl '>Upgrade Your Tech Accessorize with<br></br> Gadget Heaven Accessories</h2>
